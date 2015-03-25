@@ -12,10 +12,10 @@ Download
 https://addons.mozilla.org/ja/firefox/addon/link-here/
 
 ### Step.1
-![context menu](https://raw.github.com/wiki/sujoyu/link_here/images/link_here_context_menu.png)
+![context menu](https://raw.github.com/wiki/sujoyu/link-here/images/link_here_context_menu.png)
 
 ### Step.2
-![copy](https://raw.github.com/wiki/sujoyu/link_here/images/link_here_copy.png)
+![copy](https://raw.github.com/wiki/sujoyu/link-here/images/link_here_copy.png)
 
 I wrote English HARD !!!  
 頑張って！英語を！書いた！
